@@ -14,14 +14,14 @@ public class HawkConfig {
 
    // public static String SEN_SUS = ""; //百度统计
    // public static String APP_Channel = ""; //渠道随意
-   public static final String CONFIG_URL = "https://vx00.oss-cn-shanghai.aliyuncs.com/99tvdc.properties";//久久动态
+   public static final String CONFIG_URL = "https://tvbox.tcwl.art/app/99tvdc.properties";//久久动态
 
     public static String Your_app_id = ""; //TalkingData统计id  AndroidManifest.xml里面的也需要改
     public static String Your_channel_id = ""; //渠道随意
     public static String zb_vpn = "0"; //是否开启抓包 0开启 1关闭
     public static final String BASE_URL_ENC = "";//域名无用
     public static String MMM_MMM = new String(Base64.decode(HawkConfig.BASE_URL_ENC.getBytes(), Base64.DEFAULT));
-    public static String API_KEY = "anfWnNC6HcktpjYeaKbzcfi7ANpnNesb"; //接口密钥
+    public static String API_KEY = "12f3327e01338161d4bca998d638b959"; //接口密钥
     public static final String SOURCES_FOR_SEARCH = "checked_sources_for_search";//搜索
     public static final String DOH_URL = "doh_url";
     public static final String API_URL = "api_url";
